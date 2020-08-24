@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://admin.danieldoherty.xyz",
+    "apiUrl": "https://danieldoherty.xyz",
     "contentApiKey": "2364b076cfbbb4e4d8357ce039"
   },
   "production": {
-    "apiUrl": "https://admin.danieldoherty.xyz",
+    "apiUrl": "https://danieldoherty.xyz",
     "contentApiKey": "2364b076cfbbb4e4d8357ce039"
   }
 }
