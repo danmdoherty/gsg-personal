@@ -39,6 +39,14 @@ module.exports = {
     },
     plugins: [
         /**
+         * Attila theme 
+         * from https://github.com/draftbox-co/gatsby-attila-theme-ghost/tree/master/gatsby-theme-ghost-attila
+         */
+        {
+            resolve: `@draftbox-co/gatsby-theme-ghost-attila`,
+        },
+        
+        /**
          *  Content Plugins
          */
         {
